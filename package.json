@@ -1,0 +1,23 @@
+{
+  "name": "appaula",
+  "version": "1.0.0",
+  "description": "Aplicativo da aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhyrot/Aplica-oNodeAula.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "Aula"
+  ],
+  "author": "Erick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhyrot/Aplica-oNodeAula/issues"
+  },
+  "homepage": "https://github.com/Zhyrot/Aplica-oNodeAula#readme"
+}
